@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://aem-sites-terinmez.ngrok.dev/bin/franklin.delivery/adobe-rnd/te-aem-edge-0-local/main"
+    url: "https://aem-sites-terinmez.ngrok.dev/bin/franklin.delivery/terinmez/te-aem-edge-0-local/main"
     type: "markup"
     suffix: ".html"
